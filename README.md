@@ -26,13 +26,13 @@ This dashboard enables executives to:
 ## 🖥️ Screenshots
 
 ### Executive Overview
-![Executive Overview](docs/screenshots/01_executive_overview.png)
+![Executive Overview](docs/Screenshots/streaming_decision_intelligence_dashboard.png)
 
 ### Genre Filtering
-![Genre Filter](docs/screenshots/02_genre_filter_movie.png)
+![Genre Filter](docs/Screenshots/02_genre_filter_movie.png)
 
 ### Hover Insights
-![Hover Insight](docs/screenshots/03_hover_insight.png)
+![Hover Insight](docs/Screenshots/streaming_decision_genre_filter_updates.png)
 
 ## 🛠️ Tech Stack
 - React + Vite
