@@ -29,7 +29,7 @@ This dashboard enables executives to:
 ![Executive Overview](docs/Screenshots/streaming_decision_intelligence_dashboard.png)
 
 ### Genre Filtering
-![Genre Filter](docs/Screenshots/02_genre_filter_movie.png)
+![Genre Filter](docs/Screenshots/streaming_decision_genre_filter_updates.png)
 
 ### Hover Insights
 ![Hover Insight](docs/Screenshots/streaming_decision_genre_filter_updates.png)
